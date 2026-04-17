@@ -3532,19 +3532,19 @@ msgstr ""
 msgid "  DEBUG BUILD"
 msgstr ""
 
-msgid "VIM - Vi IMproved"
+msgid "VIM - Vi but Improved & Nikocado Friendly"
 msgstr ""
 
 msgid "version "
 msgstr ""
 
-msgid "by Bram Moolenaar et al."
+msgid "by Nikocado & The Void"
 msgstr ""
 
-msgid "Vim is open source and freely distributable"
+msgid "Vim is not open source but free software"
 msgstr ""
 
-msgid "Help poor children in Uganda!"
+msgid "Help poor children in africa, but i will not!"
 msgstr ""
 
 msgid "type  :help Kuwasha<Enter>    for information "
